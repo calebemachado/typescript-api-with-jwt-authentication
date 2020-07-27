@@ -1,0 +1,6 @@
+.env
+/node_modules
+.idea/backend-api.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/Project_Default.xml
